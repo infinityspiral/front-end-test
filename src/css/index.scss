@@ -72,7 +72,7 @@ ul, li {
 
 
 header {
-    height: 280px;
+    height: 240px;
     display: block;
     background: url("./../images/slices.png") no-repeat center bottom;
     background-size: 45%;
@@ -126,6 +126,7 @@ footer {
 .app {
     margin: 0 auto;
     max-width: 350px;
+    padding: 0 30px;
 }
 
 .filter-list {
